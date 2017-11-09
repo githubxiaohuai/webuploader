@@ -1,3 +1,4 @@
+ [demo](https://githubxiaohuai.github.io/webuploader/examples/image-upload/index.html)
 不再对使用问题进行答复，如果有希望的功能改进或者bugfix可以提交PR
 ==================================================
 
